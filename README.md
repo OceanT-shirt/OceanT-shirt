@@ -1,4 +1,8 @@
-### Hi there 👋
+# Welcome to OceanT-shirt's Repo! 👋
+
+Why OceanT-shirt? I'm not sure😂
+
+
 
 <!--
 **OceanT-shirt/OceanT-shirt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
