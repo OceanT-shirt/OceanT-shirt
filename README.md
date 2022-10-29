@@ -4,9 +4,17 @@
 
 <h1 align="center">👋 Welcome to OceanT-shirt's Repo!</h1>
 
-<h3 align="center">Enthusiast of Modern Technology from Japan 🇯🇵</h1>
+<h3 align="center">Modern Technology Enthusiast from Japan 🇯🇵</h3>
 
-<p align="center">Why OceanT-shirt? I'm not sure😂</p>
+<h3 align="center">🌟 🌟 🌟</h3>
+
+<p align="center">⛓ Blockchain / Dapps</p>
+
+<p align="center">🧠 Machine Learning</p>
+
+<p align="center">🌍 3D Modeling</p>
+
+<p align="center">🎥 Animation Editing</p>
 
 <br />
 
