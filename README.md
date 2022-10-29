@@ -1,6 +1,16 @@
-# Welcome to OceanT-shirt's Repo! 👋
+<p align="center">
+  <img src="">
+</p>
 
-Why OceanT-shirt? I'm not sure😂
+<h1 align="center">👋 Welcome to OceanT-shirt's Repo!</h1>
+
+<h3 align="center">Enthusiast of Modern Technology from Japan 🇯🇵</h1>
+
+<p align="center">Why OceanT-shirt? I'm not sure😂</p>
+
+<br />
+
+<br />
 
 
 
