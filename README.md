@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="shimonada_sunset_ocean_t_shirt.webp">
 </p>
 
 <h1 align="center">👋 Welcome to OceanT-shirt's Repo!</h1>
